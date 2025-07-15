@@ -1,7 +1,4 @@
-# king-county-house-sales-dashboard
-Tableau dashboard analyzing King County, WA house sales: trends, pricing, and location-based insights
-
-# King County House Sales Dashboard
+## King County House Sales Dashboard
 
 This project explores house sales data in King County, Washington, using Tableau for interactive visualization. It provides insights into:
 
@@ -11,20 +8,20 @@ This project explores house sales data in King County, Washington, using Tableau
 - Bedrooms/bathrooms vs. price distribution
 - Geographic distribution of high-value homes
 
-## 🧰 Tools Used
+# 🧰 Tools Used
 - Tableau Public
 - Microsoft Excel
 - Data Cleaning in Tableau Prep
 
-## 📊 Key Insights
+# 📊 Key Insights
 - Houses with waterfront views have a 50%+ higher median price
 - Zip code 98039 has the highest average sale price
 - Most homes sold between 2,000–3,000 sqft range
 
-## 🔗 Live Dashboard
+# 🔗 Live Dashboard
 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/amrita.chinnam/viz/KingCountyWashingtonHouseSalesDashboard_17142407035380/KingCountyHouseSales)
 
-## 📁 YT Link
-Source: [YT – King County House Sales]([https://www.kaggle.com/harlfoxem/housesalesprediction](https://youtu.be/CmOAXW24y2Y?si=JJOX2dawMExZttI2)
+# 📁 YT Link
+Source: [YT – King County House Sales](https://youtu.be/CmOAXW24y2Y?si=JJOX2dawMExZttI2)
 
 
